@@ -1,0 +1,7 @@
+# Ignore :
+build
+public/build
+node_modules
+coverage
+dist
+.DS_Store

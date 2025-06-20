@@ -1,0 +1,17 @@
+.cache
+.idea
+
+/node_modules
+/scripts
+/config
+/public
+/pnpm-lock.yaml
+/pnpm-workspace.yaml
+.DS_Store
+
+/package.json
+/tsconfig.json
+**/*.md
+build
+
+.eslintrc.js
