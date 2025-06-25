@@ -14,7 +14,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="h-full">
-      <body className="h-full text-text font-inter tracking-tight">{children}</body>
+      <body className="h-full text-text font-inter font-medium tracking-tight">{children}</body>
     </html>
   )
 }
